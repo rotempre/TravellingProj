@@ -1,0 +1,112 @@
+{
+	"gridSizeX": 40,
+	"gridSizeY": 50,
+	"a": 0.4,
+	"b": 0.4,
+	"c": 0.2,
+	"vanVertex": {
+		"x": 23,
+		"y": 16
+	},
+	"rides": [{
+		"pickup": {
+			"x": 39,
+			"y": 49
+		},
+		"dropoff": {
+			"x": 0,
+			"y": 0
+		}
+	}, {
+		"pickup": {
+			"x": 39,
+			"y": 0
+		},
+		"dropoff": {
+			"x": 0,
+			"y": 49
+		}
+	}, {
+		"pickup": {
+			"x": 14,
+			"y": 3
+		},
+		"dropoff": {
+			"x": 38,
+			"y": 12
+		}
+	}, {
+		"pickup": {
+			"x": 10,
+			"y": 9
+		},
+		"dropoff": {
+			"x": 33,
+			"y": 2
+		}
+	}, {
+		"pickup": {
+			"x": 19,
+			"y": 39
+		},
+		"dropoff": {
+			"x": 14,
+			"y": 18
+		}
+	}, {
+		"pickup": {
+			"x": 13,
+			"y": 9
+		},
+		"dropoff": {
+			"x": 15,
+			"y": 18
+		}
+	}, {
+		"pickup": {
+			"x": 32,
+			"y": 15
+		},
+		"dropoff": {
+			"x": 15,
+			"y": 23
+		}
+	}, {
+		"pickup": {
+			"x": 13,
+			"y": 19
+		},
+		"dropoff": {
+			"x": 28,
+			"y": 29
+		}
+	}, {
+		"pickup": {
+			"x": 15,
+			"y": 15
+		},
+		"dropoff": {
+			"x": 2,
+			"y": 2
+		}
+	}],
+	"nonConnectedEdges": [{
+		"startVertex": {
+			"x": 19,
+			"y": 27
+		},
+		"endVertex": {
+			"x": 19,
+			"y": 28
+		}
+	}, {
+		"startVertex": {
+			"x": 12,
+			"y": 10
+		},
+		"endVertex": {
+			"x": 13,
+			"y": 10
+		}
+	}]
+}

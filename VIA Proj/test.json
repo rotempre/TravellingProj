@@ -1,0 +1,48 @@
+{
+	"gridSizeX": 40,
+	"gridSizeY": 50,
+	"a": 0.7,
+	"b": 0.3,
+	"vanVertex": {
+		"x": 23,
+		"y": 16
+	},
+	"rides": [{
+		"pickup": {
+			"x": 23,
+			"y": 15
+		},
+		"dropoff": {
+			"x": 33,
+			"y": 17
+		}
+	}, {
+		"pickup": {
+			"x": 39,
+			"y": 9
+		},
+		"dropoff": {
+			"x": 21,
+			"y": 18
+		}
+	}],
+	"nonConnectedEdges": [{
+		"startVertex": {
+			"x": 19,
+			"y": 27
+		},
+		"endVertex": {
+			"x": 19,
+			"y": 28
+		}
+	}, {
+		"startVertex": {
+			"x": 12,
+			"y": 10
+		},
+		"endVertex": {
+			"x": 13,
+			"y": 10
+		}
+	}]
+}
